@@ -8,6 +8,13 @@
 		<version>2.7.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<developers>
+		<developer>
+			<id>askmohanty</id>
+			<name>Piyush Mohanty</name>
+			<url>https://github.com/askmohanty</url>
+		</developer>
+	</developers>
 	<groupId>io.github.askmohanty.software</groupId>
 	<artifactId>algotrade</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
